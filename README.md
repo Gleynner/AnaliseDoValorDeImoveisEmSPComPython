@@ -13,4 +13,4 @@ Como os dados foram obtidos por meio de técnicas de web scraping, vamos passar 
 - Análises espaciais de variáveis chaves
 - Aplicação de modelos de Aprendizado de Máquina
 
-[Clique aqui para ver o projeto completo]([ ](https://bit.ly/3EOHbgx))
+[Clique aqui para ver o projeto completo](https://bit.ly/3EOHbgx)
